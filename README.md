@@ -16,7 +16,6 @@ Most commonly found layers in a software architeture are:
 - Event
 - Blackboard
 
-
 ### Different Software Stacks
 1) Java
 2) LAMP - Linux, Apache, MySQL, PHP
@@ -26,3 +25,8 @@ Most commonly found layers in a software architeture are:
 6) Ruby on Rails
 7) Python
 8) SMACK - Spark, Mesos, Akka, Casandra, Kafka
+
+
+### Microservices
+Microservices architecture refers to an architectural style for developing appliocations. It allows application to be seperated into smaller parts withc part having its own realm of responsibility. 
+
