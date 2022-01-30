@@ -9,7 +9,9 @@ Most commonly found layers in a software architeture are:
 4) Business
 
 ### Different Patterns:
-- Model View Controller
+- Model View Controller : MVC divides an application into three components: A model, a view, and a controller.
+- 
+
 - Layered
 - Client Server
 - Broker
