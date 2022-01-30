@@ -9,14 +9,15 @@ Most commonly found layers in a software architeture are:
 4) Business
 
 ### Different Patterns:
-- Model View Controller : MVC divides an application into three components: A model, a view, and a controller.
+1) Model View Controller : MVC divides an application into three components: A model, a view, and a controller.
 <img src="./MVC.png" width="500">
-
-- Layered
-- Client Server
-- Broker
-- Event
-- Blackboard
+2) Microservices: Microservices pattern involves creating multiple applications—or microservices—that can work interdependently
+3) Layered
+4) Client Server
+5) Broker
+6) Event
+7) Blackboard
+8) Controller-responder
 
 ### Different Software Stacks
 1) Java
