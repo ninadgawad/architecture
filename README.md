@@ -29,6 +29,18 @@ Most commonly found layers in a software architeture are:
 7) Python
 8) SMACK - Spark, Mesos, Akka, Casandra, Kafka
 
+### 10 Common Architectural Patterns
+- Layered pattern
+- Client-server pattern
+- Master-slave pattern
+- Pipe-filter pattern
+- Broker pattern
+- Peer-to-peer pattern
+- Event-bus pattern
+- Model-view-controller pattern
+- Blackboard pattern
+- Interpreter pattern
+
 
 ### Microservices
 Microservices architecture refers to an architectural style for developing appliocations. It allows application to be seperated into smaller parts withc part having its own realm of responsibility. 
